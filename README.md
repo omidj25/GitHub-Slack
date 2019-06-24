@@ -2,4 +2,4 @@
 # written by Omid Jaafari
 
 1. Start a new blank workflow 
-testing
+leaf test
