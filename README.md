@@ -1,4 +1,4 @@
-webMethods.io example to notify in slack when there is a GitHub Push
+In this project we will create a workflow that will be triggered on a GitHub Pull request and push the status and additional information to a specified Slack Channel.
 
 ## Setup
 
@@ -30,5 +30,6 @@ webMethods.io example to notify in slack when there is a GitHub Push
 
 <img width="120" alt="save" src="https://user-images.githubusercontent.com/52167245/60039800-979d5c80-9685-11e9-8815-bd4cf602c4f3.PNG">
 
-8. Now it is time to test our workflow. Go to github and execute a Pull request, check your specified Slack channel to see your tailored data. you can also see the execution flow in webMethods.
+8. Now it is time to test our workflow. Go to github and execute a Pull request, check your specified Slack channel to see your tailored data. You can also see the execution of the workflow in webMethods with a blue markup.
 
+<img width="427" alt="successPull" src="https://user-images.githubusercontent.com/52167245/60040084-31650980-9686-11e9-8ae2-20bfff2d9ea7.PNG">
